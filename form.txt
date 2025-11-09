@@ -1,0 +1,39 @@
+so here i am going to write about the different types of input 
+types of the input 
+1 text
+2 number
+3 email 
+4 password
+5 radio 
+6 checkbox
+7 date
+8 range
+so that are the types of the input data in the form 
+
+her some tips to undrestand about the form 
+attributes in the form
+ 1 id 
+ 2 name 
+ 3 placeholder
+ 4 type 
+ 5 value 
+that are the attributees of the input 
+
+now having discuss about the more about the form inputing 
+1 required in the input then it become a must be filled element 
+2 feildset it is used to create the thing which is creating a kind of the border which are simply compound the context or form element on it how it look is you can tested as follow 
+3 here point to have  notice is that the input is inline element
+4 label with the input is compolsary 
+5 take a placeholder for the example not as for the label
+6 label need only a one attributes that is the for , for indicates to the id of the input 
+7 so there range is the another thing which is really and really beginner friendly but you have to set argument for it best use 
+8 dont make the form to much complex and keep the process easy and friendly
+9 legend is the tittle of the feildset so there is no existence of the attributes in the fieldset 
+
+
+the attributes of the button
+1 reset 
+2 submit 
+3 button --> and if you want to trigger then you need to have a program that set 
+
+button, button is used to trigger the action and having and it triger only two input which are on and off and it used to trigger 
